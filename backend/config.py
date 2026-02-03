@@ -1,0 +1,9 @@
+from dataclasses import dataclass
+
+@dataclass(frozen=True)
+class DetectConfig:
+    min_occurrences: int = 3
+    monthly_interval_min_days: int = 20
+    monthly_interval_max_days: int = 40
+    annual_interval_min_days: int = 330
+    annual_interval_max_days: int = 395
