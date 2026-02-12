@@ -1,0 +1,6 @@
+product_name,vendor,renewal_date,billing_cycle,price
+Zoom,Zoom,2026-01-01,monthly,100
+Slack,Slack,2026-01-01,monthly,100
+AWS,AWS,2026-01-01,monthly,100
+Notion,Notion,2026-01-01,monthly,100
+GitHub,GitHub,2026-01-01,monthly,100
